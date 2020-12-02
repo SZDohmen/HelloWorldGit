@@ -1,3 +1,6 @@
+### Version del curso
+_Version Actual --> v1.2.2_
+
 
 soy un ReadMe :D
 -----------------------
